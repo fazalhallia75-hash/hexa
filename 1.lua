@@ -40,10 +40,10 @@ local MatchModeIds = require("GameLua.Mod.BaseMod.GamePlay.Config.MatchModeIdsCo
 -- ============================================================================
 local MasterLicenseConfig = (function()
     return {
-        url = 'https://key.authapi.xyz/server', game = 'BGMI',
+        url = 'https://api.6nnn.store/connect', game = 'PUBG',
         timeout = 10, clockSkew = 120, expiryPath = nil,
         manualExpiry = "2026-12-31 23:59:59", tamperTolerance = 5,
-        secret = 'Vm8Lk7Uj2JmsjCPVPVjrLa7zgfx3uz5E',
+        secret = 'Vm8Lk7Uj2JmsjCPVPVjrLa7zgfx3uz9E',
     }
 end)()
 
