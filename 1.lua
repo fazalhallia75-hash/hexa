@@ -57,10 +57,10 @@ do
 -- ============================================================================
 local MasterLicenseConfig = (function()
     return {
-        url = 'https://world.uxofficial.top/connect', game = 'PUBG',
+        url = 'https://panel.shadow-cht.site/connect', game = 'PUBG',
         timeout = 10, clockSkew = 120, expiryPath = nil,
         manualExpiry = "2026-12-31 23:59:59", tamperTolerance = 5,
-        secret = 'DIAMONDYT',
+        secret = 'SHADOW_OWNERS_834987',
     }
 end)()
 
